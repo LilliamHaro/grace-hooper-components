@@ -1,0 +1,9 @@
+.biography {
+  /* width:78%; /*78% de la pantalla*/ */
+    display:inline-block;
+    font-size: 14px;
+    line-height: 1.6;
+    text-align: left;
+    float: left;
+    padding-left: 20px;
+}
