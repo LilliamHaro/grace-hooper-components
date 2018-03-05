@@ -1,0 +1,33 @@
+.summary{
+  display:inline-block; /*para ponerlo como elemento inline*/
+  vertical-align: top;
+  /* width: 20%; */
+  margin-top: 5px; /*ponerle margen superior para darle espacio*/
+}
+.summary-table{
+  border:1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  padding:1px;
+  font-size: 14px;
+  width: 100%;
+}
+.summary-table thead th{  /*aplica al th de thead dentro del table*/
+  background-color: #B0C4DE;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 16px;
+  padding-right: 0px; /*desaparecer el relleno de la derecha*/
+}
+.summary-table tbody tr th{
+  padding-left: 15px;
+}
+.summary-table tbody tr td{
+  padding-right: 15px;
+}
+.summary-table tbody tr:first-child{
+  text-align: center; /*centrar la imagen y la descripcion*/
+}
+
+.summary-table tbody th {
+  text-align: left; /*alinear al lado izquierdo el texto*/
+}
