@@ -11,4 +11,4 @@ En total se crearon 4 componentes, 3 creados como las etiquetas semanticas que s
  - Aside
 
 ## Vista
-![imagen](public/readme.png)
+![imagen](public/assets/readme.png)
